@@ -7,6 +7,9 @@
 
 1. ## 📂 Download DockerDesktop from docker hub
    * https://hub.docker.com/editions/community/docker-ce-desktop-mac/
+   
+   ![docker-compose build](./docs/images/preferences.jpg)
+   
    * register an Account and login into the App -> https://hub.docker.com/signup
 
 2. ## 💾 Clone repository from GitHub
